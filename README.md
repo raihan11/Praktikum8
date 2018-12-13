@@ -14,7 +14,7 @@
 ![Screenshoot](https://github.com/raihan11/Praktikum8/blob/master/Latihan1/Screenshoot1.png)
 
 **code program lengkap**
-'''c++
+```c++
 /*Program mancari nilai minimum dan maksimum*/
 #include <iostream>
 #include <conio.h>
@@ -48,7 +48,7 @@ main()
 getch();
 return 0;
 }
-
+```
 
 ###latihan2.cpp :  Tentukan modus dari n buah bilangan bulat, dimana besar datanya antara 1 sampai dengan 10.
 
@@ -64,7 +64,7 @@ return 0;
 ![Screnshoot](https://github.com/raihan11/Praktikum8/blob/master/Latihan2/Screenshoot2.png)
 
 **code program lengkap**
-'''c++
+```c++
 #include <iostream>
 #include <math.h>
 
@@ -134,7 +134,7 @@ cin >> run;
 cout << run;
 return 0;
 }
-
+```
 ###latihan3.cpp : Buatlah algoritma dan program untuk mengalikan dua buah matriks. 
 
 **Alur algoritma**
@@ -157,7 +157,7 @@ return 0;
 **Screenshoot**
 ![Screenshoot](https://github.com/raihan11/Praktikum8/blob/master/Latihan3/Screenshoot3.png)
 **code program lengkap**
-'''c++
+```c++
 #include <iostream>
 #include <conio.h>
 using namespace std;
@@ -260,7 +260,7 @@ hasil();
 getch();
 return 0;
 }
-
+```
 
 ###latihan4.cpp :  Buatlah algortima dan program untuk menghasilkan transpose suatu matriks.
 
@@ -277,7 +277,7 @@ return 0;
 ![Screenshoot](https://github.com/raihan11/Praktikum8/blob/master/Latihan4/Screenshoot4.png)
 
 **code program lengkap**
-'''c++
+```c++
 #include <cstdlib>
 #include <iostream>
 
@@ -324,3 +324,4 @@ cout<<endl<<endl;
 system("PAUSE");
 return EXIT_SUCCESS;
 }
+```
